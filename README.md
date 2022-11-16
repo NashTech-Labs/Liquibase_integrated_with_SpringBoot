@@ -1,4 +1,6 @@
-## Liquibase_integrated_with_SpringBootExample Liquibase integrated with Spring Boot
+## Liquibase_integrated_with_SpringBoot
+
+Example Liquibase integrated with Spring Boot
 
 **This solution uses Spring Boot.**
 
